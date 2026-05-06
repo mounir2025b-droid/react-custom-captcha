@@ -20,6 +20,9 @@ This project demonstrates how to create a basic human verification system using 
 
 Canvas-based CAPTCHA with random characters and noise lines.
 
+![Screenshot 1](screenshots/Capture%20d'écran%202026-05-06%20130448.png)
+![Screenshot 2](screenshots/Capture%20d'écran%202026-05-06%20130507.png)
+
 ---
 
 ## 📦 Installation
